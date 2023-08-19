@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Top Games
 
-Submitted by: **Your Name Here**
+Submitted by: Adnan Yeasir
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Top Games is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [✓] The introduction section explains the background of the company and how many games remain unfunded.
+* [✓ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [✓ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [✓ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -27,18 +27,17 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxzeGJ6eGF6M3E1bGxxaDFzbXQwZjRrenN4MXRkNTZ0MDNoYXlzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ObnMtVeBRHyGmXvD4M/giphy.gif)
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some issues understanding the secret key, in some I got stuck. I also had to do extra research on
+how some javaScript concepts just because I couldn't desplay what was wanted. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Adnan Yeasir]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
